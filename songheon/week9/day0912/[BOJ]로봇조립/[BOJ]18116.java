@@ -27,7 +27,6 @@ public class Main {
 				int a = sc.nextInt();
 				sb.append(-robot[find(a)]).append('\n');
 			}
-
 		}
 		System.out.println(sb);
 
